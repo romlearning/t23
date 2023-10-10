@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Test prog" << endl;
+	cout << "Experimental mode" << endl;
 	return 0;
 }
 
